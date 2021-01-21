@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-3.0.0" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.3+1" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.3" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.1.1" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.3" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.3" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.0+1" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.3+2" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/multi_image_picker-4.6.1" />
+      <root url="file://D:/Software/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.1.1+2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

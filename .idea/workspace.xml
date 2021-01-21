@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a59d236-5519-4694-9f59-61c3065b00e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/account_tab.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/account_tab.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/addmedia/access_camera.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/addmedia/access_camera.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/addmedia/select_source.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/addmedia/select_source.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/carousel_implementation/carousel_custom.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/carousel_implementation/carousel_custom.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/chat_functionality/feeds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/chat_functionality/feeds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/chat_functionality/messages.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/chat_functionality/messages.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/chat_tab.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/chat_tab.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/editprofile/edit_profile_,main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/editprofile/edit_profile_,main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/login_google.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/login_google.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/login_number.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/login_number.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/login_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/login_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/settings/setting_main_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/settings/setting_main_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/swipe_functionality/profile_card_alignment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/swipe_functionality/profile_card_alignment.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/swipe_functionality/profile_card_draggable.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/swipe_functionality/profile_card_draggable.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tinderHomePage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tinderHomePage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tinder_cards/tinder_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tinder_cards/tinder_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/tinder_switch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/tinder_switch.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_30_x86" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gv9U9rdbHyyJqaAX7iZP1dj4FB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a59d236-5519-4694-9f59-61c3065b00e1" name="Default Changelist" comment="" />
+      <created>1598984211118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598984211118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1429" height="109" key="GridCell.Tab.0.bottom" timestamp="1599319699028">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="109" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1599319699028" />
+    <state width="1429" height="109" key="GridCell.Tab.0.center" timestamp="1599319699028">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="109" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1599319699028" />
+    <state width="1429" height="109" key="GridCell.Tab.0.left" timestamp="1599319699028">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="109" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1599319699028" />
+    <state width="1429" height="109" key="GridCell.Tab.0.right" timestamp="1599319699028">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="109" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1599319699028" />
+    <state x="246" y="75" key="SettingsEditor" timestamp="1599315472608">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="246" y="75" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1599315472608" />
+    <state x="54" y="238" width="1274" height="664" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599309813617">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="54" y="238" width="1274" height="664" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1474.864@0.0.1474.864" timestamp="1599309813617" />
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1598995364860">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1598995364860" />
+  </component>
+</project>
